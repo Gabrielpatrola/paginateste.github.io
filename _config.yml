@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Gabriel Augusto Queiroz de Almeida"
 resume_title:                   "Estudante de Engenharia da Computação"
 
